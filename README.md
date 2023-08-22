@@ -37,4 +37,4 @@ Incluir API do almav Mapas no seu arquivo HTML:
 
 Demonstração do Mapa Interativo: https://skyline.almav.com.br/recanto-do-lago/
 
-![alt text](https://maps.almav.com/maps/assets/Ma63ae86-1c36-42d4-bcfc-a953ddbfb546/thumb01.jpg](https://h3-skyline.maps.almav.com/maps/assets/049cd687-801b-44e9-8749-0b5c36ec45e9/thumb01.jpg)https://h3-skyline.maps.almav.com/maps/assets/049cd687-801b-44e9-8749-0b5c36ec45e9/thumb01.jpg)
+![alt text](https://h3-skyline.maps.almav.com/maps/assets/049cd687-801b-44e9-8749-0b5c36ec45e9/thumb01.jpg)
